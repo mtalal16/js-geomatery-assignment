@@ -11,3 +11,7 @@ The user selects three arbitrary points within the client area of the browser. A
   - A yellow circle, with the same area and centre of mass as the parallelogram.
 
 These shapes should not be filled.The coordinates of the selected points, as well as the area of the parallelogram and circle, should be presented numerically to the user.The user should be free to move the points around the screen at any time. This makes the parallelogram, circle and printed information update accordingly.There should also be a “reset” feature that clears the board and allows the user to select three new points, repeating the process described above. Finally, there is an “about” feature that presents information about the program, its author and how it should be used, in your own words.
+
+Demo Image
+
+![alt tag](https://raw.githubusercontent.com/mtalal16/js-geomatery-assignment/master/demo.png)
